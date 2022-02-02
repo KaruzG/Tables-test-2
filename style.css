@@ -1,0 +1,17 @@
+table.tabla1 {
+    border: 1px solid red;
+}
+
+#A {
+    border: 3px solid blue;
+}
+
+table.tabla3 {
+    border: 1px solid green;
+}
+
+table.tabla3 td {
+    border: 1px solid green;
+    width: 200px;
+    text-align: center;
+}
